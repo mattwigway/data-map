@@ -1,5 +1,7 @@
 data-map: easily create geojson-driven maps in HTML pages by using
-data-* attributes, no coding required.
+data-* attributes, no coding required. data-map only supports using
+point features as placemarks, but can show customized popups. Pull
+requests for additional functionality welcome.
 
 ### Documentation
 
